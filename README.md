@@ -8,4 +8,5 @@ Once you're done reading the output, you'll then be able to change the code and 
 
 ## Available notebooks
 
+* [Basic MongoDB](basic-mongodb.ipynb)
 * [Basic SQL](basic-sql.ipynb)
